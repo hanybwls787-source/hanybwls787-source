@@ -29,7 +29,7 @@ Alongside programming, I create educational content on YouTube to help beginners
 ## 🎥 My YouTube Channel
 I create tutorials about programming, C++, ASP.NET Core, and web development.
 
-👉 **YouTube Channel:** _Add your link here_
+👉 **YouTube Channel:** https://www.youtube.com/@hanibullus
 
 ---
 
